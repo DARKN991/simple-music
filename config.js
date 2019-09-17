@@ -1,6 +1,6 @@
 module.exports = {
-    TOKEN: 'Your bot token here', 
-    YT_API_KEY: 'Youtube API Key here', 
-    prefix: 'prefix here',
-    devs: ['your id/developers here']
+    TOKEN: 'NjIzMTQ4MzY2OTMwNjQwOTA2.XYCWNQ.4RlAU0i2uVJb8VQroDXTNHaekUU', 
+    YT_API_KEY: 'AIzaSyCQapWI28_Um0n4AEGNVw7l3QZqhQF0cFs', 
+    prefix: '1',
+    devs: ['345879906875604993']
 }
